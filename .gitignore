@@ -1,0 +1,16 @@
+# Uploaded images (keep directory structure)
+assets/images/products/*
+!assets/images/products/.gitkeep
+assets/images/banners/*
+!assets/images/banners/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
